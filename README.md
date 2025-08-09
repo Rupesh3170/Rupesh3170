@@ -12,21 +12,41 @@
 About Me
 I'm an aspiring Full-Stack Developer with a strong foundation in building robust and scalable web applications. My passion lies in crafting efficient backend systems and creating engaging, modern user interfaces. With hands-on experience in both front-end and back-end technologies, I thrive on solving complex problems and am committed to continuous learning and growth.
 
-🚀 My Projects
-NoteStack
-A responsive single-page application for creating and managing notes. It leverages Redux for global state management and is optimized for seamless user experience.
+🚀 Live Portfolio
+Click the image above to visit my live portfolio and see my work in action!
+
+🎯 Pinned Projects
+Project
+
+Description
 
 Live Demo
+
+GitHub
+
+NoteStack
+
+A responsive single-page application for creating and managing notes, leveraging Redux for state management and optimized with Vite for fast build times.
+
+
+
+
 
 Node.js Blog Application
-A full-stack blog platform showcasing RESTful API development, user authentication, and CRUD operations. This project demonstrates my proficiency in server-side logic and database management with MongoDB.
 
-This project was built for learning and local use, focusing on core backend concepts.
+A full-stack blog platform with user authentication and CRUD operations. This project demonstrates my proficiency in RESTful APIs and database management with MongoDB.
+
+N/A (Local Project)
+
+
 
 LeetMetric
+
 A dynamic web dashboard that visualizes LeetCode user statistics. It fetches data through API integration to help developers track their coding progress and performance.
 
-Live Demo
+
+
+
 
 🛠️ My Tech Stack
 Languages & Frameworks:<br>
