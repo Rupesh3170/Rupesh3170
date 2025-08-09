@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Rupesh Kumar Sah 👋
 
-<!--
-**Rupesh3170/Rupesh3170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+🚀 Check out my portfolio: [My Portfolio](https://sunny-sfogliatella-0ccb6c.netlify.app/)  
 
-Here are some ideas to get you started:
+## Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express
+- **Database:** MongoDB, Firebase
+- **Cloud:** Vercel, Netlify, Cloud Storage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pinned Projects
+- [Leet_metric](https://github.com/Rupesh3170/Leet_metric)
+- [PasteApp](https://github.com/Rupesh3170/PasteApp)
+- [SafeKey_Generator](https://github.com/Rupesh3170/SafeKey_Generator)
