@@ -1,41 +1,39 @@
-# Hi, I'm Rupesh Kumar Sah 👋
+<p align="center">
+<a href="https://github.com/Rupesh3170">
+<img src="https://raw.githubusercontent.com/Rupesh3170/my-portfolio/main/public/profilepic.jpg" alt="Rupesh Kumar Sah" width="150" style="border-radius: 50%;">
+</a>
+</p>
 
-###  Aspiring Full Stack Developer
+Hi there, I'm Rupesh Kumar Sah 👋
+Aspiring Full-Stack Developer | B.Tech CSE Student
+I'm a passionate computer science student with a strong foundation in building and designing robust web applications. My expertise lies in full-stack development, with a particular focus on crafting efficient backend systems and elegant, modern user interfaces. I love tackling complex challenges and constantly seek to expand my skills in new technologies.
 
----
+🚀 Live Portfolio
+Click the image above to visit my live portfolio and see my work in action!
 
-##  My Portfolio  
-[![Portfolio Preview](https://i.ibb.co/xHbW2y1/portfolio-preview.png)](https://sunny-sfogliatella-0ccb6c.netlify.app/)  
-> Click the image above to view my live portfolio.
+🛠️ My Tech Stack
+Languages & Frameworks
+Databases & Tools
+🎯 Pinned Projects
+NoteStack
+A responsive single-page web application for creating, saving, and sharing notes via unique URLs. It features Redux for state management and is optimized with Vite for fast build times.
 
----
+Technologies: React.js, Redux, Tailwind CSS, Vite
 
-##  Languages & Tools  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+**View on GitHub | Live Demo`
 
----
+Node.js Blog Application
+A full-stack blog application with user authentication and complete CRUD functionality. It showcases my work with RESTful APIs, server-side rendering, and secure data handling.
 
-##  About Me  
-- I’m a full stack developer passionate about building intuitive web apps  
-- Skilled in front-end (HTML, CSS, JS) and backend (Node.js, Express)  
-- Working with databases (MongoDB) and deploying projects on Netlify/Vercel
+Technologies: Node.js, Express.js, MongoDB, EJS, Firebase
 
----
+**View on GitHub`
 
-##  Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green?style=for-the-badge&logo=hackerrank)](YOUR_HACKERRANK_URL)
+LeetMetric
+A dynamic web dashboard that fetches and visualizes user statistics from the LeetCode API. It includes interactive UI components like animated progress bars to enhance the user experience.
 
----
+Technologies: JavaScript, LeetCode API, HTML5, CSS3
 
-##  Pinned Projects  
-- [Project 1](https://github.com/yourusername/project1) – Short description  
-- [Project 2](https://github.com/yourusername/project2) – Short description
+**View on GitHub | Live Demo`
 
----
-
-*Inspired by the style of my friend Himanshu Kumar’s GitHub profile.*
+📫 Let's Connect!
