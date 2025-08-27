@@ -77,7 +77,8 @@ const rupesh = {
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rupesh3170&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Rupesh3170&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
 </div>
 
 ---
@@ -87,6 +88,7 @@ const rupesh = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rupesh3170&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&v=3" alt="GitHub Trophies"/>
 </div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/26BRzQS5HXcEWM7du/giphy.gif" width="200" alt="Messi celebration"/>
